@@ -14,3 +14,6 @@ body {
   color: #cd292d;
   /* color: #7f187f; */
 }
+header {
+  padding: 12em 0;
+}

@@ -1,14 +1,17 @@
 export const categories = [
   {
     id: 1,
+    img: "",
     name: "Sofas",
   },
   {
     id: 2,
+    img: "",
     name: "Beds",
   },
   {
     id: 3,
+    img: "",
     name: "TV Stands",
   },
   {
@@ -21,7 +24,8 @@ export const categories = [
   },
   {
     id: 6,
-    name: "Storage",
+    img: "",
+    name: "Storage & Organisation",
   },
   {
     id: 7,
@@ -29,6 +33,7 @@ export const categories = [
   },
   {
     id: 8,
+    img: "",
     name: "Chairs",
   },
   {
@@ -38,5 +43,14 @@ export const categories = [
   {
     id: 10,
     name: "Coffee & Side tables",
+  },
+  {
+    id: 11,
+    name: "Doors",
+  },
+  {
+    id: 12,
+    img: "",
+    name: "Children & Nursery",
   },
 ];
