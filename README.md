@@ -1,6 +1,6 @@
 # Decoh
 
-> This is a furniture online showroom were users can order the furniture they like online.
+> This is a furniture online showroom where users can order the furniture they like online.
 
 ## Authors
 
