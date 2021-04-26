@@ -49,12 +49,21 @@ function App() {
 
 const Nav = () => {
   return (
-    <nav className="py-3 border-bottom">
+    <nav className="py-3 border-bottom bg-light">
       <div className="container d-flex justify-content-between align-items-center">
         <span>
           <a href="#" className="no-decoration logo color-red fs-4">
             Decoh
           </a>
+        </span>
+        <span className="w-50">
+          <form action="#">
+            <input
+              type="text"
+              placeholder="Search for any furniture you need ..."
+              className="form-control"
+            />
+          </form>
         </span>
         <span>
           <a href="#" className="no-decoration text-muted">
